@@ -1,0 +1,114 @@
+  /*dd($responseContent->data['0']);
+        {#290 ▼
+              +"id": "419195627"
+              +"login": "roshnipatel"
+              +"display_name": "roshnipatel"
+              +"type": ""
+              +"broadcaster_type": ""
+              +"description": ""
+              +"profile_image_url": "https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-300x300.jpg"
+              +"offline_image_url": ""
+              +"view_count": 2
+            }
+        */
+       
+
+ 0 => array:28 [?
+    "title" => "Fortnite :D | Still not feeling well"
+    "description" => null
+    "description_html" => null
+    "broadcast_id" => 32849605056.0
+    "broadcast_type" => "archive"
+    "status" => "recorded"
+    "tag_list" => ""
+    "views" => 185467
+    "url" => "https://www.twitch.tv/videos/384329578"
+    "language" => "en"
+    "created_at" => "2019-02-21T15:45:00Z"
+    "viewable" => "public"
+    "viewable_at" => null
+    "published_at" => "2019-02-21T15:45:00Z"
+    "_id" => "v384329578"
+    "recorded_at" => "2019-02-21T15:45:00Z"
+    "game" => "Fortnite"
+    "communities" => null
+    "length" => 24223
+    "preview" => array:4 [?
+      "small" => "https://static-cdn.jtvnw.net/s3_vods/04faa3d2126d961cb0d8_ninja_32849605056_1121727170/thumb/thumb0-80x45.jpg"
+      "medium" => "https://static-cdn.jtvnw.net/s3_vods/04faa3d2126d961cb0d8_ninja_32849605056_1121727170/thumb/thumb0-320x180.jpg"
+      "large" => "https://static-cdn.jtvnw.net/s3_vods/04faa3d2126d961cb0d8_ninja_32849605056_1121727170/thumb/thumb0-640x360.jpg"
+      "template" => "https://static-cdn.jtvnw.net/s3_vods/04faa3d2126d961cb0d8_ninja_32849605056_1121727170/thumb/thumb0-{width}x{height}.jpg"
+    ]
+    "animated_preview_url" => "https://vod-storyboards.twitch.tv/04faa3d2126d961cb0d8_ninja_32849605056_1121727170/storyboards/384329578-strip-0.jpg"
+    "thumbnails" => array:4 [?]
+    "fps" => array:6 [?]
+    "seek_previews_url" => "https://vod-storyboards.twitch.tv/04faa3d2126d961cb0d8_ninja_32849605056_1121727170/storyboards/384329578-info.json"
+    "resolutions" => array:6 [?
+      "160p30" => "284x160"
+      "360p30" => "640x360"
+      "480p30" => "852x480"
+      "720p30" => "1280x720"
+      "720p60" => "1280x720"
+      "chunked" => "1920x1080"
+    ]
+    "restriction" => ""
+    "channel" => array:23 [?
+      "mature" => false
+      "status" => "Live for the day at the Red bull studios in LA!"
+      "broadcaster_language" => "en"
+      "broadcaster_software" => "unknown_rtmp"
+      "display_name" => "Ninja"
+      "game" => "Fortnite"
+      "language" => "en"
+      "_id" => 19571641
+      "name" => "ninja"
+      "created_at" => "2011-01-16T04:31:20.024666Z"
+      "updated_at" => "2019-02-26T19:09:05.798956Z"
+      "partner" => true
+      "logo" => "https://static-cdn.jtvnw.net/jtv_user_pictures/cef31105-8a6e-4211-a74b-2f0bbd9791fb-profile_image-300x300.png"
+      "video_banner" => "https://static-cdn.jtvnw.net/jtv_user_pictures/8f5af87e-2062-46f8-9e74-ab20d0c2215e-channel_offline_image-1920x1080.png"
+      "profile_banner" => "https://static-cdn.jtvnw.net/jtv_user_pictures/3a3a6569-292f-489e-9046-3245a28be5c4-profile_banner-480.png"
+      "profile_banner_background_color" => ""
+      "url" => "https://www.twitch.tv/ninja"
+      "views" => 420499689
+      "followers" => 13494900
+      "broadcaster_type" => "partner"
+      "description" => "Professional Battle Royale player. Follow my twitter @Ninja and for more content subscribe to my Youtube.com/Ninja"
+      "private_video" => false
+      "privacy_options_enabled" => false
+    ]
+    "increment_view_count_url" => "https://countess.twitch.tv/ping.gif?u=%7B%22id%22%3A%22384329578%22%2C%22type%22%3A%22vod%22%7D"
+
+    
+{#267 ▼
+  +"id": "33104322256"
+  +"user_id": "129339704"
+  +"user_name": "uccleague4"
+  +"game_id": "29595"
+  +"community_ids": array:1 [▼
+    0 => "e05ab438-a66f-4970-876d-e604475b20bc"
+  ]
+  +"type": "live"
+  +"title": "(RU) WESG Grand Final | White-Off vs NoLifer5  |  bo3 | by @Mr_Zais & @Cold_Ethil"
+  +"viewer_count": 26127
+  +"started_at": "2019-03-09T03:17:22Z"
+  +"language": "ru"
+  +"thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uccleague4-{width}x{height}.jpg"
+  +"tag_ids": array:1 [▼
+    0 => "0569b171-2a2b-476e-a596-5bdfb45a1327"
+  ]
+}
+
+{#283 ▼
+  +"access_token": "hc7lymdgccdlodnpef6wadmpt1ujy4"
+  +"expires_in": 15517
+  +"refresh_token": "swngi4948q4s2wiop5t15lpbty4wvjtvlww1rqmpjsw77a1u67"
+  +"scope": array:5 [▼
+    0 => "channel:moderate"
+    1 => "chat:edit"
+    2 => "chat:read"
+    3 => "whispers:edit"
+    4 => "whispers:read"
+  ]
+  +"token_type": "bearer"
+}
